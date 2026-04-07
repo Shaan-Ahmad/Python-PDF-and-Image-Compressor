@@ -19,3 +19,7 @@ __pycache__/
 # Ignore OS-specific files
 Thumbs.db
 .DS_Store
+
+# Ignore old versions
+PDF Compressor.py
+PDF Compressor Final Version.py
