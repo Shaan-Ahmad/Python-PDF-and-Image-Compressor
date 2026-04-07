@@ -1,0 +1,21 @@
+# Ignore the compressed results (we don't want to upload your private files)
+*compressed*
+gs_compressed_output.pdf
+
+# Ignore Python's internal folders
+__pycache__/
+*.pyc
+
+# Ignore OS-specific files
+Thumbs.db
+.DS_Store# Ignore the compressed results (we don't want to upload your private files)
+*compressed*
+gs_compressed_output.pdf
+
+# Ignore Python's internal folders
+__pycache__/
+*.pyc
+
+# Ignore OS-specific files
+Thumbs.db
+.DS_Store
